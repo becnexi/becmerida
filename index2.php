@@ -58,12 +58,7 @@
     
          
      <nav id="navbar" class="clearfix navbar-fixed-top">
-                 <div id="mobile-header">
- 
-
-                 <a id="responsive-menu-button" href="#sidr-main" class="minilogo">
-                 <i class="icon-menu icons"></i>
-              </a></div>
+                 
 		<ul class="seven clearfix nav">
        
 			
@@ -82,18 +77,6 @@
 	</nav>              
   
  
-<div id="navigation">
-    <nav class="navn">
-        <ul>
-            <li><a href="#download">Download</a></li>
-            <li><a href="#getstarted">Get started</a></li>
-            <li><a href="#usage">Demos &amp; Usage</a></li>
-            <li><a href="#documentation">Documentation</a></li>
-            <li><a href="#themes">Themes</a></li>
-            <li><a href="#support">Support</a></li>
-        </ul>
-    </nav>
-</div>               
 
                       
      
@@ -149,7 +132,7 @@
 
  
  
-  <div class="span4">
+  <div class="span4 bluegreen">
 		                <h2 class="titleone">EVERYTHING IS DESIGNED.
 		                <br>FEW THINGS ARE DESIGNED well</h2>
 		                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus bibendum mauvel tempor metus tempor quis. Vivamus ullamcorper, dolor nec rhoncus bibendu.</p>
@@ -189,7 +172,7 @@
 
      and have been featured in all of the magazines.</p>
     
-     <div class="media left-text fetwidth">
+     <div class="media left-text fetwidth bluegreen">
               <a href="#">
                  <i class="icon-globe icons"></i>
               </a>
@@ -199,7 +182,7 @@
               </div>
            </div>
             
-          <div class="media left-text fetwidth">
+          <div class="media left-text fetwidth bluegreen">
               <a href="#">
                  <i class="icon-wrench icons"></i>
               </a>
@@ -208,7 +191,7 @@
                 Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. 
               </div>
             </div>
-    <div class="media left-text fetwidth">
+    <div class="media left-text fetwidth bluegreen">
               <a href="#">
                 <i class="icon-rocket icons"></i>
               </a>
@@ -218,7 +201,7 @@
               </div>
            </div>   
             
-   <div class="media left-text fetwidth">
+   <div class="media left-text fetwidth bluegreen">
               <a href="#">
                 <i class="icon-rocket icons"></i>
               </a>
@@ -685,7 +668,7 @@
            
             <div class="span3">
   
-           <ul class="pricemain">
+           <ul class="pricemain bluegreen">
                         <li class="title">Plan A</li>
                         <li class="pricetitle">$25<span> /mo</span></li>
                         <li class="description">Checkout what you get below</li>
@@ -705,7 +688,7 @@
             
               <div class="span3">
   
-           <ul class="pricemain activeit">
+           <ul class="pricemain bluegreen activeit">
                         <li class="title">Simple 1</li>
                         <li class="pricetitle">$25<span> /mo</span></li>
                         <li class="description">Checkout what you get below</li>
@@ -727,7 +710,7 @@
           
              <div class="span3">
   
-           <ul class="pricemain">
+           <ul class="pricemain bluegreen">
                         <li class="title">Plan A</li>
                         <li class="pricetitle">$25<span> /mo</span></li>
                         <li class="description">Checkout what you get below</li>
@@ -750,7 +733,7 @@
          
              <div class="span3">
   
-           <ul class="pricemain">
+           <ul class="pricemain bluegreen">
                         <li class="title">Plan A</li>
                         <li class="pricetitle">$25<span> /mo</span></li>
 
