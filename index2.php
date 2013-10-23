@@ -102,7 +102,7 @@
   
   
   <div class="container register">
- <h1><i class="icon-ok iconshead"></i>Simple and Modern</h1>
+ <h1><strong>E</strong>nglish<strong>B</strong>usiness<strong>C</strong>oaching</h1>
 <h2>Fix your workflow. Learn from others. Start your library today.</h2><br>
 
 
